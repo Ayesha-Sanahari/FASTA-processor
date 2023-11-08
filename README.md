@@ -2,9 +2,9 @@
 This Python program includes classes and methods to process sequences given in the FASTA format
 
 
-  • A method to split multiple FASTA sequences in a single file to several FASTA files.
+• A method to split multiple FASTA sequences in a single file to several FASTA files.
 
-  • A method to count the number of FASTA sequences in a file containing multiple sequences.
+• A method to count the number of FASTA sequences in a file containing multiple sequences.
 
 • A method to combine individual FASTA files into a single FASTA file.
 
