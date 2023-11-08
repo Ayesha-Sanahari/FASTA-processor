@@ -286,6 +286,6 @@ print(fasta.remove_unwanted_characters_from_NA("multiple_fasta_file_with_unwante
 print(fasta.remove_unwanted_characters_from_AA("OSDREB_aa_sequences_with_unwanted_letters.fasta"))
 
 
-print("THEOBROMA CACAO")
+print("Theobroma cacao")
 print("Seq count in multi fasta Together all cacao proteins file:", file_obj5.Seq_count)
 print("Seq count in multi fasta Together all Ara proteins file:", file_obj6.Seq_count)
